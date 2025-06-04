@@ -48,5 +48,11 @@ class chatbook:
                 print("Provide correct credentials..!!")
         print("\n")
         self.menu()
+
+    def my_post(self):
+        if self.loggedin==True:
+            txt = input("Enter your message here: ")
+            print(f"Following content has been posted -> {txt}")
         
+
 obj = chatbook()
