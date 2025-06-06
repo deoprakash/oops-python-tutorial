@@ -11,3 +11,4 @@
     > Encapsulation
     > getter and setter
     > static method
+    > magic/special/dunder method
