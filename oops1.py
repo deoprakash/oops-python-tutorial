@@ -15,7 +15,8 @@ class employee:  #class initiated
 
 #create an obj/instance of class
 sam = employee()
-
+# sam.name = "Sam"
+print(sam.name)
 # printing attributes
 # print(sam.id)
 
