@@ -11,6 +11,11 @@
     > Encapsulation
     > getter and setter
     > static method
-    
+
     > magic/special/dunder method
     > can create attribute outside the method
+
+6. Inheritance 
+    > Inheritance code example
+    > Why needed
+    > What gets inherited? 
