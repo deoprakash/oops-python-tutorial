@@ -1,2 +1,7 @@
 1. Class & Objects
-2. Constructors & Methods
+2. Constructors & Methods, class method
+> Question 1
+3. Abstraction & Encapsulation
+> Question 2
+4. Private attribute & Methods
+5. Inheritance , Super Method
