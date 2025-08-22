@@ -1,6 +1,12 @@
 # #All classes have function called __init(), which is always executed when object is being initiated.
 
+''' Three types of methods : 
+    1. Static method -> @static
+    2. class method -> (cls)
+    3. instance -> (self)
+'''
 
+#------------------------------------ Static Method ---------------------------------------------
 
 # class Student:
 #     name = "Anonymous"
