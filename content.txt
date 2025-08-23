@@ -11,3 +11,8 @@
 6. Property decorator
 7. Getter and Setter
 8. Polymorphism
+> Ques 3
+> Ques 4
+> Ques 5
+9. Method Overloading
+10. Method Overriding
